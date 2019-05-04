@@ -1,6 +1,7 @@
 {
   "name": "robofriends",
   "version": "0.1.0",
+  "homepage": "http://duynamdeveloper.github.io/robofriends",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
